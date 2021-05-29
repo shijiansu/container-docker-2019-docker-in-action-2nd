@@ -3,7 +3,6 @@
 ![](https://img.shields.io/badge/language-bash-blue)
 ![](https://img.shields.io/badge/technology-docker-blue)
 ![](https://img.shields.io/badge/development%20year-2020-orange)
-![](https://img.shields.io/badge/contributor-shijian%20su-purple)
 
 ![](https://img.shields.io/github/languages/top/shijiansu/2019.docker-in-action-2nd)
 ![](https://img.shields.io/github/languages/count/shijiansu/2019.docker-in-action-2nd)
