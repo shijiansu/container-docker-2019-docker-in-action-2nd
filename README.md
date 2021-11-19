@@ -1,14 +1,6 @@
-# container-docker-2019-docker-in-action-2nd
-
 ![](https://img.shields.io/badge/language-bash-blue)
 ![](https://img.shields.io/badge/technology-docker-blue)
 ![](https://img.shields.io/badge/development%20year-2020-orange)
-
-![](https://img.shields.io/github/languages/top/shijiansu/container-docker-2019-docker-in-action-2nd)
-![](https://img.shields.io/github/languages/count/shijiansu/container-docker-2019-docker-in-action-2nd)
-![](https://img.shields.io/github/languages/code-size/shijiansu/container-docker-2019-docker-in-action-2nd)
-![](https://img.shields.io/github/repo-size/shijiansu/container-docker-2019-docker-in-action-2nd)
-![](https://img.shields.io/github/last-commit/shijiansu/container-docker-2019-docker-in-action-2nd?color=red)
 
 ## Outline
 
